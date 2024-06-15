@@ -4,7 +4,8 @@
 This tutorial offers short methods to fully test the `localStorage} integration, usability, edge cases, and functionality of the To-Do List application.
 
 
-#### Functional Testing 1. Please add a task. Make that the task you entered is visible in the list.
+#### Functional Testing 
+1. **Please add a task. Make that the task you entered is visible in the list.**
    
 2. **Delete Task** - Take a task out of the list and make sure it vanishes.
    
