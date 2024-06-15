@@ -1,25 +1,25 @@
 *ADDING THE TASK*
 
-![image](https://github.com/AnuragSingh24/Todo-App-React/assets/145691945/95b90b0c-0971-48bd-94c1-5abf71277db8)
+<img width="457" alt="1" src="https://github.com/PiyushRajgit/To-Do-List/assets/145225909/784d87b5-79eb-474f-b037-fa94021592cd">
+
 
 
 *COMPLETED TASK*
 
-![image](https://github.com/AnuragSingh24/Todo-App-React/assets/145691945/a90c8342-8cbf-493f-85f7-039e0f20d285)
+<img width="476" alt="2" src="https://github.com/PiyushRajgit/To-Do-List/assets/145225909/e1af4299-e094-49d0-9b1b-fcc2a1e656c8">
+
 
 
 *INCOMPLETE TASK*
 
-![image](https://github.com/AnuragSingh24/Todo-App-React/assets/145691945/fe7c2340-a2a4-4cca-a4f8-1ec13dc09844)
-
-
+<img width="449" alt="3" src="https://github.com/PiyushRajgit/To-Do-List/assets/145225909/8dad9427-aa47-4018-beb1-91171adcd3a6">
 
 
 *SORTING THE TASK*
 
-![image](https://github.com/AnuragSingh24/Todo-App-React/assets/145691945/54a14924-be55-4c6e-ad3e-95fb84a0acd7)
-
+<img width="471" alt="4" src="https://github.com/PiyushRajgit/To-Do-List/assets/145225909/f8eb3fd9-4c15-4c5b-bb96-ed68d9222f1d">
 
 
 *LOCAL STORAGE*
-![image](https://github.com/AnuragSingh24/Todo-App-React/assets/145691945/1ca96a3c-bcd3-40ef-9016-270865dfc760)
+<img width="959" alt="local" src="https://github.com/PiyushRajgit/To-Do-List/assets/145225909/865e2c2c-823b-46d0-b012-585c531d608e">
+
