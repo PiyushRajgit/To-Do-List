@@ -15,7 +15,8 @@ This tutorial offers short methods to fully test the `localStorage} integration,
    
 5. **Sort Tasks** - Check that the task titles are sorted in both "Ascending" and "Descending" order.
 
-#### {localStorage} Integration 1. **Persistence** - Reload the application, add tasks, and make sure they continue.
+#### {localStorage} Integration 
+1. **Persistence** - Reload the application, add tasks, and make sure they continue.
    
 2. **Data Integrity** - Include, remove, and finish tasks before reloading to
 
