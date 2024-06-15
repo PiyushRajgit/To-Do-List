@@ -1,3 +1,26 @@
+**Brief Testing Guidance**
+### Testing Instructions for the To-Do List Software
+
+#### Overview
+This tutorial offers short methods to fully test the `localStorage} integration, usability, edge cases, and functionality of the To-Do List application.
+
+
+#### Functional Testing 1. Please add a task. Make that the task you entered is visible in the list.
+   
+2. **Delete Task** - Take a task out of the list and make sure it vanishes.
+   
+3. **Complete Task** - Check that the user interface refreshes when a task is marked as completed.
+   
+4. **Filter Tasks** - Verify that the list refreshes successfully by testing filtering by "All," "Completed," and "Incomplete" tasks.
+   
+5. **Sort Tasks** - Check that the task titles are sorted in both "Ascending" and "Descending" order.
+
+#### {localStorage} Integration 1. **Persistence** - Reload the application, add tasks, and make sure they continue.
+   
+2. **Data Integrity** - Include, remove, and finish tasks before reloading to
+
+
+
 *ADDING THE TASK*
 
 <img width="457" alt="1" src="https://github.com/PiyushRajgit/To-Do-List/assets/145225909/784d87b5-79eb-474f-b037-fa94021592cd">
