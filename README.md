@@ -1,4 +1,3 @@
-**Brief Testing Guidance**
 ### Testing Instructions for the To-Do List Software
 
 #### Overview
